@@ -1,0 +1,11 @@
+username = "John"
+print(username == "John")
+print(username != "john")
+a = 1
+b = 2
+print(a > b)
+print(a < b)
+c = 3
+d = 3
+print(c >= d)
+print(c <= d)
